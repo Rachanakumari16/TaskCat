@@ -6,7 +6,7 @@ project:
   - eu-west-1
 tests:
   vpc-defaults:
-    template: ./templates/create_ec2.yaml
+    template: ./templates/create_ec2.yml
     regions:
     - us-east-1
     - us-west-1
