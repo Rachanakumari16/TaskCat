@@ -1,5 +1,5 @@
 project:
-  name: cfn-ci-cd
+  name: taskcat-demo-project
   regions:
   - us-east-1
   - us-west-1
