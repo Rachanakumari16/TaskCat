@@ -5,7 +5,7 @@ Mappings:
     us-east-1:
       AMI: ami-04cb4ca688797756f
     us-west-1:
-      AMI: ami-05552d2dcf89c9b24
+      AMI: ami-073e64e4c237c08ad
     eu-west-1:
       AMI: ami-3bfab942
 Parameters:
